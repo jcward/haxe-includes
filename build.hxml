@@ -1,0 +1,3 @@
+-cp src
+-cp macro
+-main Main
