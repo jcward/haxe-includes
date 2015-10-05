@@ -7,12 +7,6 @@ class Main {
     foo.test();
     foo.test_nested();
     foo.test_single();
-
-    // I assume it's not possible to access a varible from this expr's scope?
-    // var test_expr = {
-    //   var scoped_variable = 123;
-    // }
-    // trace("scoped_variable="+scoped_variable);
   }
 }
 
