@@ -1,3 +1,4 @@
+@:mergeBlock
 {
 
   var a = 1;
